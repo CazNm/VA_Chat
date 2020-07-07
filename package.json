@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {}
+}
