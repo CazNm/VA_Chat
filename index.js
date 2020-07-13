@@ -157,6 +157,6 @@ connection.connect(function(err) {
     console.log('Success DB connection')
 })
 
-server.listen(3000, function() {
+server.listen(80, function() {
     console.log('Server on!')
 })
