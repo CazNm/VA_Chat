@@ -352,3 +352,4 @@ OkPacket {
   protocol41: true,
   changedRows: 1
 }
+open index.html
