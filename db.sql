@@ -5,7 +5,7 @@ create table user_info (
 	username varchar(25),
     password varchar(200),
     state tinyint(1) default 0
-);
+) engine=InnoDB default charset=utf8;
 
 select * from user_info;
 
